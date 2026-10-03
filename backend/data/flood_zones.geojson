@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "name": "mumbai_flood_zones_synthetic",
+  "disclaimer": "SYNTHETIC DATA - Not official MCGM data",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hindmata",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.83269999999999,
+              19.021099999999997
+            ],
+            [
+              72.8407,
+              19.021099999999997
+            ],
+            [
+              72.8407,
+              19.0291
+            ],
+            [
+              72.83269999999999,
+              19.0291
+            ],
+            [
+              72.83269999999999,
+              19.021099999999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milan Subway",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8453,
+              19.0994
+            ],
+            [
+              72.8533,
+              19.0994
+            ],
+            [
+              72.8533,
+              19.107400000000002
+            ],
+            [
+              72.8453,
+              19.107400000000002
+            ],
+            [
+              72.8453,
+              19.0994
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sion",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8579,
+              19.0349
+            ],
+            [
+              72.86590000000001,
+              19.0349
+            ],
+            [
+              72.86590000000001,
+              19.042900000000003
+            ],
+            [
+              72.8579,
+              19.042900000000003
+            ],
+            [
+              72.8579,
+              19.0349
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sion Circle",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8578,
+              19.035899999999998
+            ],
+            [
+              72.86580000000001,
+              19.035899999999998
+            ],
+            [
+              72.86580000000001,
+              19.0439
+            ],
+            [
+              72.8578,
+              19.0439
+            ],
+            [
+              72.8578,
+              19.035899999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kurla",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8753,
+              19.0677
+            ],
+            [
+              72.8833,
+              19.0677
+            ],
+            [
+              72.8833,
+              19.0757
+            ],
+            [
+              72.8753,
+              19.0757
+            ],
+            [
+              72.8753,
+              19.0677
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Byculla",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.83,
+              18.9739
+            ],
+            [
+              72.83800000000001,
+              18.9739
+            ],
+            [
+              72.83800000000001,
+              18.981900000000003
+            ],
+            [
+              72.83,
+              18.981900000000003
+            ],
+            [
+              72.83,
+              18.9739
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dadar",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8389,
+              19.0169
+            ],
+            [
+              72.8469,
+              19.0169
+            ],
+            [
+              72.8469,
+              19.024900000000002
+            ],
+            [
+              72.8389,
+              19.024900000000002
+            ],
+            [
+              72.8389,
+              19.0169
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

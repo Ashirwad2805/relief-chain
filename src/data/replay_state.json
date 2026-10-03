@@ -1,0 +1,2638 @@
+{
+  "simTime": 0.0,
+  "startTime": 1790888721.4901824,
+  "running": false,
+  "speed": 1.0,
+  "hospitals": [
+    {
+      "id": "H01",
+      "name": "KEM Hospital",
+      "area": "Sion",
+      "specialty": [
+        "trauma",
+        "cardiac",
+        "pediatric"
+      ],
+      "capacity": {
+        "er": 45,
+        "icu": 22,
+        "ward": 120
+      },
+      "occupied": {
+        "er": 45,
+        "icu": 7,
+        "ward": 61
+      },
+      "blood": {
+        "A+": 16,
+        "A-": 6,
+        "B+": 15,
+        "B-": 4,
+        "O+": 35,
+        "O-": 5,
+        "AB+": 4,
+        "AB-": 5
+      },
+      "status": "operational",
+      "position": {
+        "lat": 19.07537537455748,
+        "lng": 72.8492383777555
+      }
+    },
+    {
+      "id": "H02",
+      "name": "Lokmanya Tilak Municipal (Sion)",
+      "area": "Sion",
+      "specialty": [
+        "trauma",
+        "neuro"
+      ],
+      "capacity": {
+        "er": 40,
+        "icu": 18,
+        "ward": 100
+      },
+      "occupied": {
+        "er": 24,
+        "icu": 8,
+        "ward": 82
+      },
+      "blood": {
+        "A+": 8,
+        "A-": 11,
+        "B+": 14,
+        "B-": 10,
+        "O+": 25,
+        "O-": 7,
+        "AB+": 10,
+        "AB-": 5
+      },
+      "status": "operational",
+      "position": {
+        "lat": 19.074225525665845,
+        "lng": 72.85595440256634
+      }
+    },
+    {
+      "id": "H03",
+      "name": "Holy Spirit Hospital",
+      "area": "Andheri",
+      "specialty": [
+        "cardiac",
+        "general"
+      ],
+      "capacity": {
+        "er": 30,
+        "icu": 14,
+        "ward": 75
+      },
+      "occupied": {
+        "er": 24,
+        "icu": 6,
+        "ward": 59
+      },
+      "blood": {
+        "A+": 21,
+        "A-": 8,
+        "B+": 16,
+        "B-": 4,
+        "O+": 18,
+        "O-": 16,
+        "AB+": 8,
+        "AB-": 1
+      },
+      "status": "operational",
+      "position": {
+        "lat": 19.116441966747043,
+        "lng": 72.84357373101467
+      }
+    },
+    {
+      "id": "H04",
+      "name": "Cooper Hospital",
+      "area": "Bandra",
+      "specialty": [
+        "trauma",
+        "pediatric"
+      ],
+      "capacity": {
+        "er": 35,
+        "icu": 16,
+        "ward": 85
+      },
+      "occupied": {
+        "er": 25,
+        "icu": 8,
+        "ward": 44
+      },
+      "blood": {
+        "A+": 22,
+        "A-": 11,
+        "B+": 11,
+        "B-": 8,
+        "O+": 14,
+        "O-": 12,
+        "AB+": 7,
+        "AB-": 6
+      },
+      "status": "operational",
+      "position": {
+        "lat": 19.069948158018914,
+        "lng": 72.84189365520248
+      }
+    },
+    {
+      "id": "H05",
+      "name": "P.D. Hinduja Hospital",
+      "area": "Worli",
+      "specialty": [
+        "neuro",
+        "cardiac",
+        "trauma"
+      ],
+      "capacity": {
+        "er": 35,
+        "icu": 20,
+        "ward": 95
+      },
+      "occupied": {
+        "er": 20,
+        "icu": 7,
+        "ward": 49
+      },
+      "blood": {
+        "A+": 15,
+        "A-": 7,
+        "B+": 10,
+        "B-": 5,
+        "O+": 15,
+        "O-": 10,
+        "AB+": 7,
+        "AB-": 4
+      },
+      "status": "operational",
+      "position": {
+        "lat": 19.018085475554116,
+        "lng": 72.82191865743175
+      }
+    },
+    {
+      "id": "H06",
+      "name": "Breach Candy Hospital",
+      "area": "Worli",
+      "specialty": [
+        "general",
+        "cardiac"
+      ],
+      "capacity": {
+        "er": 25,
+        "icu": 12,
+        "ward": 60
+      },
+      "occupied": {
+        "er": 16,
+        "icu": 5,
+        "ward": 36
+      },
+      "blood": {
+        "A+": 16,
+        "A-": 4,
+        "B+": 13,
+        "B-": 10,
+        "O+": 35,
+        "O-": 7,
+        "AB+": 5,
+        "AB-": 4
+      },
+      "status": "operational",
+      "position": {
+        "lat": 19.01603564353406,
+        "lng": 72.8269161868051
+      }
+    },
+    {
+      "id": "H07",
+      "name": "Nanavati Max Hospital",
+      "area": "Juhu",
+      "specialty": [
+        "trauma",
+        "general",
+        "pediatric"
+      ],
+      "capacity": {
+        "er": 32,
+        "icu": 15,
+        "ward": 70
+      },
+      "occupied": {
+        "er": 19,
+        "icu": 9,
+        "ward": 61
+      },
+      "blood": {
+        "A+": 9,
+        "A-": 6,
+        "B+": 9,
+        "B-": 7,
+        "O+": 24,
+        "O-": 8,
+        "AB+": 4,
+        "AB-": 2
+      },
+      "status": "operational",
+      "position": {
+        "lat": 19.110305088993485,
+        "lng": 72.83853744041183
+      }
+    },
+    {
+      "id": "H08",
+      "name": "Fortis Hospital Mulund",
+      "area": "Kurla",
+      "specialty": [
+        "cardiac",
+        "neuro"
+      ],
+      "capacity": {
+        "er": 28,
+        "icu": 14,
+        "ward": 65
+      },
+      "occupied": {
+        "er": 22,
+        "icu": 9,
+        "ward": 38
+      },
+      "blood": {
+        "A+": 23,
+        "A-": 9,
+        "B+": 22,
+        "B-": 4,
+        "O+": 20,
+        "O-": 6,
+        "AB+": 6,
+        "AB-": 6
+      },
+      "status": "operational",
+      "position": {
+        "lat": 19.072490945073305,
+        "lng": 72.87610193286818
+      }
+    },
+    {
+      "id": "H09",
+      "name": "Tata Memorial Hospital",
+      "area": "Parel",
+      "specialty": [
+        "oncology",
+        "general"
+      ],
+      "capacity": {
+        "er": 30,
+        "icu": 12,
+        "ward": 80
+      },
+      "occupied": {
+        "er": 21,
+        "icu": 6,
+        "ward": 65
+      },
+      "blood": {
+        "A+": 19,
+        "A-": 6,
+        "B+": 12,
+        "B-": 10,
+        "O+": 27,
+        "O-": 5,
+        "AB+": 3,
+        "AB-": 1
+      },
+      "status": "operational",
+      "position": {
+        "lat": 19.005222730554785,
+        "lng": 72.83427985601378
+      }
+    },
+    {
+      "id": "H10",
+      "name": "Bhatia Hospital",
+      "area": "Byculla",
+      "specialty": [
+        "general",
+        "trauma"
+      ],
+      "capacity": {
+        "er": 24,
+        "icu": 10,
+        "ward": 50
+      },
+      "occupied": {
+        "er": 19,
+        "icu": 6,
+        "ward": 44
+      },
+      "blood": {
+        "A+": 10,
+        "A-": 9,
+        "B+": 20,
+        "B-": 9,
+        "O+": 28,
+        "O-": 8,
+        "AB+": 3,
+        "AB-": 6
+      },
+      "status": "operational",
+      "position": {
+        "lat": 18.979765774554885,
+        "lng": 72.83545368295222
+      }
+    },
+    {
+      "id": "H11",
+      "name": "Surana Sethia Hospital",
+      "area": "Chembur",
+      "specialty": [
+        "cardiac",
+        "general"
+      ],
+      "capacity": {
+        "er": 26,
+        "icu": 12,
+        "ward": 55
+      },
+      "occupied": {
+        "er": 18,
+        "icu": 9,
+        "ward": 35
+      },
+      "blood": {
+        "A+": 18,
+        "A-": 4,
+        "B+": 17,
+        "B-": 8,
+        "O+": 17,
+        "O-": 11,
+        "AB+": 3,
+        "AB-": 6
+      },
+      "status": "operational",
+      "position": {
+        "lat": 19.065006823523028,
+        "lng": 72.897107112406
+      }
+    },
+    {
+      "id": "H12",
+      "name": "Godrej Memorial Hospital",
+      "area": "Ghatkopar",
+      "specialty": [
+        "trauma",
+        "cardiac"
+      ],
+      "capacity": {
+        "er": 28,
+        "icu": 12,
+        "ward": 60
+      },
+      "occupied": {
+        "er": 19,
+        "icu": 9,
+        "ward": 35
+      },
+      "blood": {
+        "A+": 24,
+        "A-": 4,
+        "B+": 17,
+        "B-": 10,
+        "O+": 31,
+        "O-": 7,
+        "AB+": 5,
+        "AB-": 3
+      },
+      "status": "operational",
+      "position": {
+        "lat": 19.0881000864006,
+        "lng": 72.90831503224096
+      }
+    },
+    {
+      "id": "H13",
+      "name": "Kokilaben Dhirubhai Ambani",
+      "area": "Andheri",
+      "specialty": [
+        "trauma",
+        "neuro",
+        "pediatric"
+      ],
+      "capacity": {
+        "er": 40,
+        "icu": 24,
+        "ward": 110
+      },
+      "occupied": {
+        "er": 39,
+        "icu": 7,
+        "ward": 93
+      },
+      "blood": {
+        "A+": 18,
+        "A-": 10,
+        "B+": 8,
+        "B-": 3,
+        "O+": 23,
+        "O-": 18,
+        "AB+": 7,
+        "AB-": 2
+      },
+      "status": "operational",
+      "position": {
+        "lat": 19.116163401331956,
+        "lng": 72.84982407679364
+      }
+    },
+    {
+      "id": "H14",
+      "name": "Lilavati Hospital",
+      "area": "Bandra",
+      "specialty": [
+        "cardiac",
+        "neuro",
+        "trauma"
+      ],
+      "capacity": {
+        "er": 38,
+        "icu": 20,
+        "ward": 90
+      },
+      "occupied": {
+        "er": 18,
+        "icu": 7,
+        "ward": 76
+      },
+      "blood": {
+        "A+": 10,
+        "A-": 11,
+        "B+": 12,
+        "B-": 4,
+        "O+": 33,
+        "O-": 11,
+        "AB+": 5,
+        "AB-": 3
+      },
+      "status": "operational",
+      "position": {
+        "lat": 19.069221390299344,
+        "lng": 72.83985275133986
+      }
+    },
+    {
+      "id": "H15",
+      "name": "Saifee Hospital",
+      "area": "Byculla",
+      "specialty": [
+        "general",
+        "cardiac"
+      ],
+      "capacity": {
+        "er": 30,
+        "icu": 14,
+        "ward": 70
+      },
+      "occupied": {
+        "er": 15,
+        "icu": 7,
+        "ward": 57
+      },
+      "blood": {
+        "A+": 17,
+        "A-": 9,
+        "B+": 19,
+        "B-": 9,
+        "O+": 28,
+        "O-": 11,
+        "AB+": 4,
+        "AB-": 2
+      },
+      "status": "operational",
+      "position": {
+        "lat": 18.975797578696255,
+        "lng": 72.83270468449719
+      }
+    },
+    {
+      "id": "H16",
+      "name": "Jaslok Hospital",
+      "area": "Worli",
+      "specialty": [
+        "neuro",
+        "cardiac"
+      ],
+      "capacity": {
+        "er": 32,
+        "icu": 16,
+        "ward": 80
+      },
+      "occupied": {
+        "er": 19,
+        "icu": 7,
+        "ward": 40
+      },
+      "blood": {
+        "A+": 10,
+        "A-": 3,
+        "B+": 15,
+        "B-": 3,
+        "O+": 13,
+        "O-": 17,
+        "AB+": 8,
+        "AB-": 1
+      },
+      "status": "operational",
+      "position": {
+        "lat": 19.017113248958466,
+        "lng": 72.82122781811171
+      }
+    },
+    {
+      "id": "H17",
+      "name": "HBT Trauma Care Hospital",
+      "area": "Vile Parle",
+      "specialty": [
+        "trauma",
+        "ortho"
+      ],
+      "capacity": {
+        "er": 30,
+        "icu": 12,
+        "ward": 60
+      },
+      "occupied": {
+        "er": 19,
+        "icu": 4,
+        "ward": 47
+      },
+      "blood": {
+        "A+": 12,
+        "A-": 12,
+        "B+": 23,
+        "B-": 5,
+        "O+": 27,
+        "O-": 16,
+        "AB+": 9,
+        "AB-": 2
+      },
+      "status": "operational",
+      "position": {
+        "lat": 19.095754606371937,
+        "lng": 72.84527186199611
+      }
+    },
+    {
+      "id": "H18",
+      "name": "St. George Hospital",
+      "area": "Colaba",
+      "specialty": [
+        "general",
+        "trauma"
+      ],
+      "capacity": {
+        "er": 25,
+        "icu": 10,
+        "ward": 50
+      },
+      "occupied": {
+        "er": 15,
+        "icu": 6,
+        "ward": 38
+      },
+      "blood": {
+        "A+": 22,
+        "A-": 3,
+        "B+": 11,
+        "B-": 2,
+        "O+": 24,
+        "O-": 15,
+        "AB+": 8,
+        "AB-": 1
+      },
+      "status": "operational",
+      "position": {
+        "lat": 18.904689250671364,
+        "lng": 72.81222167126752
+      }
+    }
+  ],
+  "ambulances": [
+    {
+      "id": "AMB-01",
+      "type": "basic",
+      "status": "dispatched",
+      "position": {
+        "lat": 18.96860122463815,
+        "lng": 72.82637444521293
+      },
+      "assignedIncidentId": "INC-006",
+      "assignedHospitalId": "H01",
+      "fuel": 84,
+      "homeHospital": "H15",
+      "capability": 1
+    },
+    {
+      "id": "AMB-02",
+      "type": "basic",
+      "status": "dispatched",
+      "position": {
+        "lat": 19.079980664154718,
+        "lng": 72.86760963063567
+      },
+      "assignedIncidentId": "INC-005",
+      "assignedHospitalId": "H02",
+      "fuel": 95,
+      "homeHospital": "H08",
+      "capability": 1
+    },
+    {
+      "id": "AMB-03",
+      "type": "basic",
+      "status": "dispatched",
+      "position": {
+        "lat": 18.896647425235397,
+        "lng": 72.81526456914749
+      },
+      "assignedIncidentId": "INC-001",
+      "assignedHospitalId": "H01",
+      "fuel": 87,
+      "homeHospital": "H18",
+      "capability": 1
+    },
+    {
+      "id": "AMB-04",
+      "type": "basic",
+      "status": "idle",
+      "position": {
+        "lat": 19.084755299703176,
+        "lng": 72.85776571741566
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 97,
+      "homeHospital": "H01",
+      "capability": 1
+    },
+    {
+      "id": "AMB-05",
+      "type": "basic",
+      "status": "idle",
+      "position": {
+        "lat": 19.065817167285385,
+        "lng": 72.87581475537719
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 76,
+      "homeHospital": "H08",
+      "capability": 1
+    },
+    {
+      "id": "AMB-06",
+      "type": "basic",
+      "status": "idle",
+      "position": {
+        "lat": 19.124212258642167,
+        "lng": 72.84311681922166
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 70,
+      "homeHospital": "H13",
+      "capability": 1
+    },
+    {
+      "id": "AMB-07",
+      "type": "basic",
+      "status": "idle",
+      "position": {
+        "lat": 19.111467462495398,
+        "lng": 72.8555054888326
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 84,
+      "homeHospital": "H13",
+      "capability": 1
+    },
+    {
+      "id": "AMB-08",
+      "type": "basic",
+      "status": "dispatched",
+      "position": {
+        "lat": 18.97822592427469,
+        "lng": 72.84460003576942
+      },
+      "assignedIncidentId": "INC-004",
+      "assignedHospitalId": "H13",
+      "fuel": 95,
+      "homeHospital": "H10",
+      "capability": 1
+    },
+    {
+      "id": "AMB-09",
+      "type": "basic",
+      "status": "idle",
+      "position": {
+        "lat": 18.907926676910378,
+        "lng": 72.81195509950061
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 76,
+      "homeHospital": "H18",
+      "capability": 1
+    },
+    {
+      "id": "AMB-10",
+      "type": "basic",
+      "status": "idle",
+      "position": {
+        "lat": 18.97411979252317,
+        "lng": 72.82662334879237
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 93,
+      "homeHospital": "H10",
+      "capability": 1
+    },
+    {
+      "id": "AMB-11",
+      "type": "basic",
+      "status": "idle",
+      "position": {
+        "lat": 18.895908402100893,
+        "lng": 72.80849376746292
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 71,
+      "homeHospital": "H18",
+      "capability": 1
+    },
+    {
+      "id": "AMB-12",
+      "type": "basic",
+      "status": "idle",
+      "position": {
+        "lat": 19.017170256616858,
+        "lng": 72.82828221595267
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 75,
+      "homeHospital": "H16",
+      "capability": 1
+    },
+    {
+      "id": "AMB-13",
+      "type": "basic",
+      "status": "idle",
+      "position": {
+        "lat": 19.083441103731335,
+        "lng": 72.84755663187116
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 75,
+      "homeHospital": "H02",
+      "capability": 1
+    },
+    {
+      "id": "AMB-14",
+      "type": "basic",
+      "status": "idle",
+      "position": {
+        "lat": 19.118342668876043,
+        "lng": 72.84707798208676
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 77,
+      "homeHospital": "H03",
+      "capability": 1
+    },
+    {
+      "id": "AMB-15",
+      "type": "basic",
+      "status": "idle",
+      "position": {
+        "lat": 19.1085611336109,
+        "lng": 72.85762982307622
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 77,
+      "homeHospital": "H13",
+      "capability": 1
+    },
+    {
+      "id": "AMB-16",
+      "type": "basic",
+      "status": "idle",
+      "position": {
+        "lat": 19.076613155872487,
+        "lng": 72.85433890087306
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 88,
+      "homeHospital": "H02",
+      "capability": 1
+    },
+    {
+      "id": "AMB-17",
+      "type": "basic",
+      "status": "idle",
+      "position": {
+        "lat": 19.092082003291473,
+        "lng": 72.84048717590818
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 91,
+      "homeHospital": "H17",
+      "capability": 1
+    },
+    {
+      "id": "AMB-18",
+      "type": "basic",
+      "status": "idle",
+      "position": {
+        "lat": 19.059780542575346,
+        "lng": 72.89502282934183
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 91,
+      "homeHospital": "H11",
+      "capability": 1
+    },
+    {
+      "id": "AMB-19",
+      "type": "advanced",
+      "status": "idle",
+      "position": {
+        "lat": 18.978910266006295,
+        "lng": 72.84403404958633
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 99,
+      "homeHospital": "H10",
+      "capability": 2
+    },
+    {
+      "id": "AMB-20",
+      "type": "advanced",
+      "status": "idle",
+      "position": {
+        "lat": 19.106628275884727,
+        "lng": 72.84599691612453
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 88,
+      "homeHospital": "H03",
+      "capability": 2
+    },
+    {
+      "id": "AMB-21",
+      "type": "advanced",
+      "status": "idle",
+      "position": {
+        "lat": 19.061413372440906,
+        "lng": 72.83615674144782
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 78,
+      "homeHospital": "H04",
+      "capability": 2
+    },
+    {
+      "id": "AMB-22",
+      "type": "advanced",
+      "status": "idle",
+      "position": {
+        "lat": 19.02675066311399,
+        "lng": 72.82953594090549
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 98,
+      "homeHospital": "H05",
+      "capability": 2
+    },
+    {
+      "id": "AMB-23",
+      "type": "advanced",
+      "status": "idle",
+      "position": {
+        "lat": 19.069881486848082,
+        "lng": 72.86925686951533
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 96,
+      "homeHospital": "H08",
+      "capability": 2
+    },
+    {
+      "id": "AMB-24",
+      "type": "advanced",
+      "status": "idle",
+      "position": {
+        "lat": 18.90876004917311,
+        "lng": 72.81445522658204
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 95,
+      "homeHospital": "H18",
+      "capability": 2
+    },
+    {
+      "id": "AMB-25",
+      "type": "advanced",
+      "status": "idle",
+      "position": {
+        "lat": 19.08591106851498,
+        "lng": 72.85161394469841
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 79,
+      "homeHospital": "H17",
+      "capability": 2
+    },
+    {
+      "id": "AMB-26",
+      "type": "advanced",
+      "status": "idle",
+      "position": {
+        "lat": 19.078726758097456,
+        "lng": 72.83457947749035
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 73,
+      "homeHospital": "H04",
+      "capability": 2
+    },
+    {
+      "id": "AMB-27",
+      "type": "advanced",
+      "status": "dispatched",
+      "position": {
+        "lat": 19.074796491698535,
+        "lng": 72.83500261339799
+      },
+      "assignedIncidentId": "INC-003",
+      "assignedHospitalId": "H13",
+      "fuel": 79,
+      "homeHospital": "H04",
+      "capability": 2
+    },
+    {
+      "id": "AMB-28",
+      "type": "advanced",
+      "status": "idle",
+      "position": {
+        "lat": 19.11465733273626,
+        "lng": 72.83260938665838
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 90,
+      "homeHospital": "H07",
+      "capability": 2
+    },
+    {
+      "id": "AMB-29",
+      "type": "advanced",
+      "status": "dispatched",
+      "position": {
+        "lat": 19.005330911716744,
+        "lng": 72.82930228105518
+      },
+      "assignedIncidentId": "INC-008",
+      "assignedHospitalId": "H06",
+      "fuel": 99,
+      "homeHospital": "H09",
+      "capability": 2
+    },
+    {
+      "id": "AMB-30",
+      "type": "advanced",
+      "status": "idle",
+      "position": {
+        "lat": 19.0660714950201,
+        "lng": 72.85442591801761
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 78,
+      "homeHospital": "H02",
+      "capability": 2
+    },
+    {
+      "id": "AMB-31",
+      "type": "icu",
+      "status": "idle",
+      "position": {
+        "lat": 19.064296439447602,
+        "lng": 72.86137678702673
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 90,
+      "homeHospital": "H02",
+      "capability": 3
+    },
+    {
+      "id": "AMB-32",
+      "type": "icu",
+      "status": "dispatched",
+      "position": {
+        "lat": 18.998454370080264,
+        "lng": 72.833116566251
+      },
+      "assignedIncidentId": "INC-007",
+      "assignedHospitalId": "H14",
+      "fuel": 92,
+      "homeHospital": "H09",
+      "capability": 3
+    },
+    {
+      "id": "AMB-33",
+      "type": "icu",
+      "status": "idle",
+      "position": {
+        "lat": 19.07043952759484,
+        "lng": 72.83209022895164
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 100,
+      "homeHospital": "H14",
+      "capability": 3
+    },
+    {
+      "id": "AMB-34",
+      "type": "icu",
+      "status": "idle",
+      "position": {
+        "lat": 19.018997281338226,
+        "lng": 72.82861055782948
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 88,
+      "homeHospital": "H05",
+      "capability": 3
+    },
+    {
+      "id": "AMB-35",
+      "type": "icu",
+      "status": "idle",
+      "position": {
+        "lat": 18.897651126382712,
+        "lng": 72.80477058165316
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 79,
+      "homeHospital": "H18",
+      "capability": 3
+    },
+    {
+      "id": "AMB-36",
+      "type": "icu",
+      "status": "idle",
+      "position": {
+        "lat": 19.096079716175453,
+        "lng": 72.91423747833872
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 97,
+      "homeHospital": "H12",
+      "capability": 3
+    },
+    {
+      "id": "AMB-37",
+      "type": "boat",
+      "status": "idle",
+      "position": {
+        "lat": 19.082204018396375,
+        "lng": 72.85015593333314
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 77,
+      "homeHospital": "H02",
+      "capability": 2
+    },
+    {
+      "id": "AMB-38",
+      "type": "boat",
+      "status": "idle",
+      "position": {
+        "lat": 19.067021730711208,
+        "lng": 72.84309132558536
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 97,
+      "homeHospital": "H04",
+      "capability": 2
+    },
+    {
+      "id": "AMB-39",
+      "type": "boat",
+      "status": "idle",
+      "position": {
+        "lat": 19.07869813075209,
+        "lng": 72.84484230356273
+      },
+      "assignedIncidentId": null,
+      "assignedHospitalId": null,
+      "fuel": 99,
+      "homeHospital": "H14",
+      "capability": 2
+    },
+    {
+      "id": "AMB-40",
+      "type": "helicopter",
+      "status": "dispatched",
+      "position": {
+        "lat": 19.079783058997705,
+        "lng": 72.8856260535268
+      },
+      "assignedIncidentId": "INC-002",
+      "assignedHospitalId": "H13",
+      "fuel": 95,
+      "homeHospital": "H08",
+      "capability": 4
+    }
+  ],
+  "incidents": [
+    {
+      "id": "INC-001",
+      "label": "Building Collapse \u2013 Dadar Kabutar Khana",
+      "severity": "red",
+      "area": "Dadar",
+      "position": {
+        "lat": 19.083062314221923,
+        "lng": 72.84247376646212
+      },
+      "patientCount": 54,
+      "redPatients": 18,
+      "yellowPatients": 14,
+      "greenPatients": 22,
+      "bloodNeeded": [
+        "O-",
+        "B+"
+      ],
+      "urgency": 87,
+      "slaMinutes": 15,
+      "createdAt": 2.3,
+      "status": "assigned",
+      "description": "3-storey residential collapse; multiple victims trapped under masonry",
+      "assignedAmbulanceId": "AMB-03",
+      "assignedHospitalId": "H01",
+      "etaMinutes": 2.5
+    },
+    {
+      "id": "INC-002",
+      "label": "Severe Flooding \u2013 Hindmata Junction",
+      "severity": "red",
+      "area": "Hindmata",
+      "position": {
+        "lat": 19.07199311280768,
+        "lng": 72.83858489531629
+      },
+      "patientCount": 87,
+      "redPatients": 14,
+      "yellowPatients": 28,
+      "greenPatients": 45,
+      "bloodNeeded": [
+        "O-",
+        "B+"
+      ],
+      "urgency": 97,
+      "slaMinutes": 15,
+      "createdAt": 2.2,
+      "status": "assigned",
+      "description": "Monsoon storm surge over 4.5ft; stranded buses and electric shock hazards",
+      "assignedAmbulanceId": "AMB-40",
+      "assignedHospitalId": "H13",
+      "etaMinutes": 17.7
+    },
+    {
+      "id": "INC-003",
+      "label": "Andheri Subway Flash Submersion",
+      "severity": "yellow",
+      "area": "Andheri",
+      "position": {
+        "lat": 19.121110345232967,
+        "lng": 72.84528900344671
+      },
+      "patientCount": 54,
+      "redPatients": 6,
+      "yellowPatients": 18,
+      "greenPatients": 30,
+      "bloodNeeded": [
+        "O+"
+      ],
+      "urgency": 50,
+      "slaMinutes": 30,
+      "createdAt": 2.5,
+      "status": "assigned",
+      "description": "Subway inundated rapidly; submerged public transport vehicles",
+      "assignedAmbulanceId": "AMB-27",
+      "assignedHospitalId": "H13",
+      "etaMinutes": 19.6
+    },
+    {
+      "id": "INC-004",
+      "label": "Milan Subway Waterlogging & Gridlock",
+      "severity": "yellow",
+      "area": "Milan Subway",
+      "position": {
+        "lat": 19.10064857375842,
+        "lng": 72.84323300069742
+      },
+      "patientCount": 34,
+      "redPatients": 4,
+      "yellowPatients": 12,
+      "greenPatients": 18,
+      "bloodNeeded": [
+        "O+"
+      ],
+      "urgency": 60,
+      "slaMinutes": 30,
+      "createdAt": 1.1,
+      "status": "assigned",
+      "description": "Major arterial gridlock with elderly and asthmatic patients stranded",
+      "assignedAmbulanceId": "AMB-08",
+      "assignedHospitalId": "H13",
+      "etaMinutes": 39.1
+    },
+    {
+      "id": "INC-005",
+      "label": "Sion Circle Inundation & Debris",
+      "severity": "yellow",
+      "area": "Sion Circle",
+      "position": {
+        "lat": 19.077699519633583,
+        "lng": 72.85326181940808
+      },
+      "patientCount": 40,
+      "redPatients": 5,
+      "yellowPatients": 10,
+      "greenPatients": 25,
+      "bloodNeeded": [
+        "O+"
+      ],
+      "urgency": 54,
+      "slaMinutes": 30,
+      "createdAt": 2.6,
+      "status": "assigned",
+      "description": "Key traffic rotunda flooded; ambulance transit blocked",
+      "assignedAmbulanceId": "AMB-02",
+      "assignedHospitalId": "H02",
+      "etaMinutes": 0.2
+    },
+    {
+      "id": "INC-006",
+      "label": "Kurla Low-lying Shanty Inundation",
+      "severity": "red",
+      "area": "Kurla",
+      "position": {
+        "lat": 19.074227938215177,
+        "lng": 72.87633754128323
+      },
+      "patientCount": 69,
+      "redPatients": 12,
+      "yellowPatients": 22,
+      "greenPatients": 35,
+      "bloodNeeded": [
+        "O-",
+        "B+"
+      ],
+      "urgency": 95,
+      "slaMinutes": 15,
+      "createdAt": 1.0,
+      "status": "assigned",
+      "description": "Mithi river overflow entering residential settlements; water-borne trauma",
+      "assignedAmbulanceId": "AMB-01",
+      "assignedHospitalId": "H01",
+      "etaMinutes": 10.6
+    },
+    {
+      "id": "INC-007",
+      "label": "Bandra Station West Overpass Rush",
+      "severity": "yellow",
+      "area": "Bandra",
+      "position": {
+        "lat": 19.067969571707184,
+        "lng": 72.84118611765219
+      },
+      "patientCount": 37,
+      "redPatients": 3,
+      "yellowPatients": 14,
+      "greenPatients": 20,
+      "bloodNeeded": [
+        "O+"
+      ],
+      "urgency": 69,
+      "slaMinutes": 30,
+      "createdAt": 1.2,
+      "status": "assigned",
+      "description": "Crush injury event following unexpected commuter evacuation",
+      "assignedAmbulanceId": "AMB-32",
+      "assignedHospitalId": "H14",
+      "etaMinutes": 2.8
+    },
+    {
+      "id": "INC-008",
+      "label": "Worli Sea Face Coastal Inundation",
+      "severity": "green",
+      "area": "Worli",
+      "position": {
+        "lat": 19.017848890431644,
+        "lng": 72.82239807030615
+      },
+      "patientCount": 22,
+      "redPatients": 1,
+      "yellowPatients": 6,
+      "greenPatients": 15,
+      "bloodNeeded": [
+        "O+"
+      ],
+      "urgency": 62,
+      "slaMinutes": 30,
+      "createdAt": 1.3,
+      "status": "assigned",
+      "description": "High-tide wave overtopping promenade; minor lacerations and trauma",
+      "assignedAmbulanceId": "AMB-29",
+      "assignedHospitalId": "H06",
+      "etaMinutes": 15.9
+    }
+  ],
+  "roads": [
+    {
+      "id": "R1",
+      "from": "Andheri",
+      "to": "Sion",
+      "condition": "slow",
+      "fromPos": {
+        "lat": 19.1197,
+        "lng": 72.8468
+      },
+      "toPos": {
+        "lat": 19.076,
+        "lng": 72.853
+      }
+    },
+    {
+      "id": "R2",
+      "from": "Sion",
+      "to": "Dadar",
+      "condition": "open",
+      "fromPos": {
+        "lat": 19.076,
+        "lng": 72.853
+      },
+      "toPos": {
+        "lat": 19.085,
+        "lng": 72.843
+      }
+    },
+    {
+      "id": "R3",
+      "from": "Dadar",
+      "to": "Hindmata",
+      "condition": "flooded",
+      "fromPos": {
+        "lat": 19.085,
+        "lng": 72.843
+      },
+      "toPos": {
+        "lat": 19.073,
+        "lng": 72.836
+      }
+    },
+    {
+      "id": "R4",
+      "from": "Hindmata",
+      "to": "Sion Circle",
+      "condition": "flooded",
+      "fromPos": {
+        "lat": 19.073,
+        "lng": 72.836
+      },
+      "toPos": {
+        "lat": 19.0758,
+        "lng": 72.8535
+      }
+    },
+    {
+      "id": "R5",
+      "from": "Sion Circle",
+      "to": "Sion",
+      "condition": "slow",
+      "fromPos": {
+        "lat": 19.0758,
+        "lng": 72.8535
+      },
+      "toPos": {
+        "lat": 19.076,
+        "lng": 72.853
+      }
+    },
+    {
+      "id": "R6",
+      "from": "Milan Subway",
+      "to": "Andheri",
+      "condition": "flooded",
+      "fromPos": {
+        "lat": 19.103,
+        "lng": 72.841
+      },
+      "toPos": {
+        "lat": 19.1197,
+        "lng": 72.8468
+      }
+    },
+    {
+      "id": "R7",
+      "from": "Bandra",
+      "to": "Sion",
+      "condition": "open",
+      "fromPos": {
+        "lat": 19.069,
+        "lng": 72.839
+      },
+      "toPos": {
+        "lat": 19.076,
+        "lng": 72.853
+      }
+    },
+    {
+      "id": "R8",
+      "from": "Andheri",
+      "to": "Juhu",
+      "condition": "open",
+      "fromPos": {
+        "lat": 19.1197,
+        "lng": 72.8468
+      },
+      "toPos": {
+        "lat": 19.107,
+        "lng": 72.838
+      }
+    },
+    {
+      "id": "R9",
+      "from": "Worli",
+      "to": "Dadar",
+      "condition": "open",
+      "fromPos": {
+        "lat": 19.017,
+        "lng": 72.823
+      },
+      "toPos": {
+        "lat": 19.085,
+        "lng": 72.843
+      }
+    },
+    {
+      "id": "R10",
+      "from": "Kurla",
+      "to": "Sion",
+      "condition": "slow",
+      "fromPos": {
+        "lat": 19.072,
+        "lng": 72.878
+      },
+      "toPos": {
+        "lat": 19.076,
+        "lng": 72.853
+      }
+    },
+    {
+      "id": "R11",
+      "from": "Parel",
+      "to": "Dadar",
+      "condition": "open",
+      "fromPos": {
+        "lat": 19.008,
+        "lng": 72.837
+      },
+      "toPos": {
+        "lat": 19.085,
+        "lng": 72.843
+      }
+    },
+    {
+      "id": "R12",
+      "from": "Byculla",
+      "to": "Parel",
+      "condition": "open",
+      "fromPos": {
+        "lat": 18.978,
+        "lng": 72.834
+      },
+      "toPos": {
+        "lat": 19.008,
+        "lng": 72.837
+      }
+    },
+    {
+      "id": "R13",
+      "from": "Chembur",
+      "to": "Kurla",
+      "condition": "slow",
+      "fromPos": {
+        "lat": 19.062,
+        "lng": 72.899
+      },
+      "toPos": {
+        "lat": 19.072,
+        "lng": 72.878
+      }
+    },
+    {
+      "id": "R14",
+      "from": "Ghatkopar",
+      "to": "Kurla",
+      "condition": "open",
+      "fromPos": {
+        "lat": 19.086,
+        "lng": 72.908
+      },
+      "toPos": {
+        "lat": 19.072,
+        "lng": 72.878
+      }
+    }
+  ],
+  "supplies": [
+    {
+      "id": "SUP-001",
+      "name": "Emergency IV Fluids (Ringer Lactate)",
+      "type": "medical",
+      "quantity": 1200,
+      "unit": "units",
+      "location": "KEM Central Depot",
+      "status": "available"
+    },
+    {
+      "id": "SUP-002",
+      "name": "Sterile Trauma Bandages & Dressing",
+      "type": "medical",
+      "quantity": 4000,
+      "unit": "rolls",
+      "location": "Hinduja Depot",
+      "status": "available"
+    },
+    {
+      "id": "SUP-003",
+      "name": "High-Pressure Medical Oxygen Cylinders",
+      "type": "medical",
+      "quantity": 150,
+      "unit": "cylinders",
+      "location": "Kurla Central Logistics",
+      "status": "available"
+    },
+    {
+      "id": "SUP-004",
+      "name": "Anti-Tetanus Immunoglobulin & Toxoid",
+      "type": "medical",
+      "quantity": 800,
+      "unit": "vials",
+      "location": "Nanavati Store",
+      "status": "available"
+    },
+    {
+      "id": "SUP-005",
+      "name": "Potable Drinking Water Pouches (500ml)",
+      "type": "water",
+      "quantity": 10000,
+      "unit": "pouches",
+      "location": "Bandra Relief Camp",
+      "status": "available"
+    },
+    {
+      "id": "SUP-006",
+      "name": "MRE Nutrient Rations",
+      "type": "food",
+      "quantity": 6000,
+      "unit": "packets",
+      "location": "Dadar Red Cross",
+      "status": "available"
+    },
+    {
+      "id": "SUP-007",
+      "name": "Heavy-Duty Tarpaulin Rain Covers",
+      "type": "shelter",
+      "quantity": 500,
+      "unit": "sheets",
+      "location": "Sion Civic Hall",
+      "status": "available"
+    },
+    {
+      "id": "SUP-008",
+      "name": "Generator Diesel (Ultra-Low Sulfur)",
+      "type": "fuel",
+      "quantity": 2500,
+      "unit": "liters",
+      "location": "BPCL Kurla Depot",
+      "status": "available"
+    }
+  ],
+  "supplyRequests": [
+    {
+      "id": "REQ-001",
+      "item": "High-Pressure Medical Oxygen Cylinders",
+      "quantity": 25,
+      "unit": "cylinders",
+      "requester": "Lokmanya Tilak (Sion)",
+      "area": "Sion",
+      "priority": "urgent",
+      "status": "pending",
+      "createdAt": 1.2
+    },
+    {
+      "id": "REQ-002",
+      "item": "Emergency IV Fluids (Ringer Lactate)",
+      "quantity": 300,
+      "unit": "units",
+      "requester": "Cooper Hospital",
+      "area": "Bandra",
+      "priority": "high",
+      "status": "pending",
+      "createdAt": 2.0
+    },
+    {
+      "id": "REQ-003",
+      "item": "Potable Drinking Water Pouches (500ml)",
+      "quantity": 1200,
+      "unit": "pouches",
+      "requester": "Hindmata Rescue Shelter",
+      "area": "Hindmata",
+      "priority": "urgent",
+      "status": "pending",
+      "createdAt": 2.5
+    },
+    {
+      "id": "REQ-004",
+      "item": "Anti-Tetanus Immunoglobulin & Toxoid",
+      "quantity": 100,
+      "unit": "vials",
+      "requester": "Dadar Community Clinic",
+      "area": "Dadar",
+      "priority": "normal",
+      "status": "pending",
+      "createdAt": 3.1
+    }
+  ],
+  "decisions": [
+    {
+      "id": "DEC-476BB00B",
+      "timestamp": 0.0,
+      "incidentId": "INC-001",
+      "incidentLabel": "Building Collapse \u2013 Dadar Kabutar Khana",
+      "ambulanceId": "AMB-03",
+      "hospitalId": "H01",
+      "selectedHospitalName": "KEM Hospital",
+      "nearestHospitalId": "H01",
+      "nearestHospitalName": "KEM Hospital",
+      "action": "Dispatch AMB-03 to Building Collapse \u2013 Dadar Kabutar Khana \u2192 KEM Hospital",
+      "score": 29.3,
+      "alternatives": [
+        {
+          "hospitalId": "H01",
+          "hospitalName": "KEM Hospital",
+          "score": 29.3,
+          "distance": 1.4,
+          "etaMinutes": 2.5,
+          "accepted": true,
+          "reasons": [
+            "Expected survival benefit score: 29/100",
+            "Rapid transit ETA: 27.7m (1.4km)"
+          ]
+        },
+        {
+          "hospitalId": "H02",
+          "hospitalName": "Lokmanya Tilak Municipal (Sion)",
+          "score": 20.0,
+          "distance": 1.4,
+          "etaMinutes": 2.5,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        },
+        {
+          "hospitalId": "H03",
+          "hospitalName": "Holy Spirit Hospital",
+          "score": 20.0,
+          "distance": 6.4,
+          "etaMinutes": 22.1,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        },
+        {
+          "hospitalId": "H04",
+          "hospitalName": "Cooper Hospital",
+          "score": 20.0,
+          "distance": 3.1,
+          "etaMinutes": 5.3,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        }
+      ],
+      "constraints": [
+        "ICU Capacity < 100%",
+        "Blood Match Verified",
+        "Anti-Thrashing En-Route Lock"
+      ],
+      "explanation": {
+        "selectedReasons": [
+          "Expected survival benefit score: 29/100",
+          "Rapid transit ETA: 27.7m (1.4km)",
+          "Uncommitted ICU headroom: 15 beds",
+          "Specialty match: trauma, cardiac, pediatric",
+          "Blood inventory verified for critical transfusion"
+        ],
+        "nearestRejectedReasons": [
+          "Projected ICU occupancy exceeds safe capacity"
+        ],
+        "expectedSurvivors": 17,
+        "baselineSurvivors": 17
+      },
+      "status": "suggested",
+      "pinned": false,
+      "engine": "reliefchain"
+    },
+    {
+      "id": "DEC-D23EFD15",
+      "timestamp": 0.0,
+      "incidentId": "INC-002",
+      "incidentLabel": "Severe Flooding \u2013 Hindmata Junction",
+      "ambulanceId": "AMB-40",
+      "hospitalId": "H13",
+      "selectedHospitalName": "Kokilaben Dhirubhai Ambani",
+      "nearestHospitalId": "H14",
+      "nearestHospitalName": "Lilavati Hospital",
+      "action": "Dispatch AMB-40 to Severe Flooding \u2013 Hindmata Junction \u2192 Kokilaben Dhirubhai Ambani",
+      "score": 45.8,
+      "alternatives": [
+        {
+          "hospitalId": "H01",
+          "hospitalName": "KEM Hospital",
+          "score": 20.0,
+          "distance": 3.0,
+          "etaMinutes": 17.7,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        },
+        {
+          "hospitalId": "H02",
+          "hospitalName": "Lokmanya Tilak Municipal (Sion)",
+          "score": 20.0,
+          "distance": 3.0,
+          "etaMinutes": 17.7,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        },
+        {
+          "hospitalId": "H03",
+          "hospitalName": "Holy Spirit Hospital",
+          "score": 20.0,
+          "distance": 7.9,
+          "etaMinutes": 37.3,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        },
+        {
+          "hospitalId": "H04",
+          "hospitalName": "Cooper Hospital",
+          "score": 20.0,
+          "distance": 4.6,
+          "etaMinutes": 20.5,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        }
+      ],
+      "constraints": [
+        "ICU Capacity < 100%",
+        "Blood Match Verified",
+        "Anti-Thrashing En-Route Lock"
+      ],
+      "explanation": {
+        "selectedReasons": [
+          "Expected survival benefit score: 45/100",
+          "Rapid transit ETA: 24.5m (5.32km)",
+          "Uncommitted ICU headroom: 17 beds",
+          "Specialty match: trauma, neuro, pediatric",
+          "Blood inventory verified for critical transfusion"
+        ],
+        "nearestRejectedReasons": [
+          "Bypassed Lilavati Hospital to prioritize verified trauma & ICU resources"
+        ],
+        "expectedSurvivors": 30,
+        "baselineSurvivors": 24
+      },
+      "status": "suggested",
+      "pinned": false,
+      "engine": "reliefchain"
+    },
+    {
+      "id": "DEC-31A75CD7",
+      "timestamp": 0.0,
+      "incidentId": "INC-003",
+      "incidentLabel": "Andheri Subway Flash Submersion",
+      "ambulanceId": "AMB-27",
+      "hospitalId": "H13",
+      "selectedHospitalName": "Kokilaben Dhirubhai Ambani",
+      "nearestHospitalId": "H03",
+      "nearestHospitalName": "Holy Spirit Hospital",
+      "action": "Dispatch AMB-27 to Andheri Subway Flash Submersion \u2192 Kokilaben Dhirubhai Ambani",
+      "score": 58.2,
+      "alternatives": [
+        {
+          "hospitalId": "H01",
+          "hospitalName": "KEM Hospital",
+          "score": 24.0,
+          "distance": 4.9,
+          "etaMinutes": 19.6,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        },
+        {
+          "hospitalId": "H02",
+          "hospitalName": "Lokmanya Tilak Municipal (Sion)",
+          "score": 24.0,
+          "distance": 4.9,
+          "etaMinutes": 19.6,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        },
+        {
+          "hospitalId": "H03",
+          "hospitalName": "Holy Spirit Hospital",
+          "score": 41.6,
+          "distance": 0.5,
+          "etaMinutes": 2.0,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        },
+        {
+          "hospitalId": "H04",
+          "hospitalName": "Cooper Hospital",
+          "score": 21.2,
+          "distance": 6.6,
+          "etaMinutes": 22.4,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        }
+      ],
+      "constraints": [
+        "ICU Capacity < 100%",
+        "Blood Match Verified",
+        "Anti-Thrashing En-Route Lock"
+      ],
+      "explanation": {
+        "selectedReasons": [
+          "Expected survival benefit score: 58/100",
+          "Rapid transit ETA: 36.1m (0.5km)",
+          "Uncommitted ICU headroom: 17 beds",
+          "Specialty match: trauma, neuro, pediatric",
+          "Blood inventory verified for critical transfusion"
+        ],
+        "nearestRejectedReasons": [
+          "Bypassed Holy Spirit Hospital to prioritize verified trauma & ICU resources"
+        ],
+        "expectedSurvivors": 19,
+        "baselineSurvivors": 14
+      },
+      "status": "suggested",
+      "pinned": false,
+      "engine": "reliefchain"
+    },
+    {
+      "id": "DEC-54E89AEC",
+      "timestamp": 0.0,
+      "incidentId": "INC-004",
+      "incidentLabel": "Milan Subway Waterlogging & Gridlock",
+      "ambulanceId": "AMB-08",
+      "hospitalId": "H13",
+      "selectedHospitalName": "Kokilaben Dhirubhai Ambani",
+      "nearestHospitalId": "H17",
+      "nearestHospitalName": "HBT Trauma Care Hospital",
+      "action": "Dispatch AMB-08 to Milan Subway Waterlogging & Gridlock \u2192 Kokilaben Dhirubhai Ambani",
+      "score": 48.0,
+      "alternatives": [
+        {
+          "hospitalId": "H01",
+          "hospitalName": "KEM Hospital",
+          "score": 20.0,
+          "distance": 6.9,
+          "etaMinutes": 39.1,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        },
+        {
+          "hospitalId": "H02",
+          "hospitalName": "Lokmanya Tilak Municipal (Sion)",
+          "score": 20.0,
+          "distance": 6.9,
+          "etaMinutes": 39.1,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        },
+        {
+          "hospitalId": "H03",
+          "hospitalName": "Holy Spirit Hospital",
+          "score": 20.0,
+          "distance": 1.9,
+          "etaMinutes": 19.5,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        },
+        {
+          "hospitalId": "H04",
+          "hospitalName": "Cooper Hospital",
+          "score": 20.0,
+          "distance": 8.5,
+          "etaMinutes": 41.9,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        }
+      ],
+      "constraints": [
+        "ICU Capacity < 100%",
+        "Blood Match Verified",
+        "Anti-Thrashing En-Route Lock"
+      ],
+      "explanation": {
+        "selectedReasons": [
+          "Expected survival benefit score: 48/100",
+          "Rapid transit ETA: 48.9m (1.9km)",
+          "Uncommitted ICU headroom: 17 beds",
+          "Specialty match: trauma, neuro, pediatric",
+          "Blood inventory verified for critical transfusion"
+        ],
+        "nearestRejectedReasons": [
+          "Bypassed HBT Trauma Care Hospital to prioritize verified trauma & ICU resources"
+        ],
+        "expectedSurvivors": 12,
+        "baselineSurvivors": 10
+      },
+      "status": "suggested",
+      "pinned": false,
+      "engine": "reliefchain"
+    },
+    {
+      "id": "DEC-39F89185",
+      "timestamp": 0.0,
+      "incidentId": "INC-005",
+      "incidentLabel": "Sion Circle Inundation & Debris",
+      "ambulanceId": "AMB-02",
+      "hospitalId": "H02",
+      "selectedHospitalName": "Lokmanya Tilak Municipal (Sion)",
+      "nearestHospitalId": "H02",
+      "nearestHospitalName": "Lokmanya Tilak Municipal (Sion)",
+      "action": "Dispatch AMB-02 to Sion Circle Inundation & Debris \u2192 Lokmanya Tilak Municipal (Sion)",
+      "score": 69.2,
+      "alternatives": [
+        {
+          "hospitalId": "H01",
+          "hospitalName": "KEM Hospital",
+          "score": 51.7,
+          "distance": 0.1,
+          "etaMinutes": 0.2,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        },
+        {
+          "hospitalId": "H02",
+          "hospitalName": "Lokmanya Tilak Municipal (Sion)",
+          "score": 69.2,
+          "distance": 0.1,
+          "etaMinutes": 0.2,
+          "accepted": true,
+          "reasons": [
+            "Expected survival benefit score: 69/100",
+            "Rapid transit ETA: 24.5m (0.1km)"
+          ]
+        },
+        {
+          "hospitalId": "H03",
+          "hospitalName": "Holy Spirit Hospital",
+          "score": 32.1,
+          "distance": 5.0,
+          "etaMinutes": 19.8,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        },
+        {
+          "hospitalId": "H04",
+          "hospitalName": "Cooper Hospital",
+          "score": 48.8,
+          "distance": 1.7,
+          "etaMinutes": 3.1,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        }
+      ],
+      "constraints": [
+        "ICU Capacity < 100%",
+        "Blood Match Verified",
+        "Anti-Thrashing En-Route Lock"
+      ],
+      "explanation": {
+        "selectedReasons": [
+          "Expected survival benefit score: 69/100",
+          "Rapid transit ETA: 24.5m (0.1km)",
+          "Uncommitted ICU headroom: 10 beds",
+          "Specialty match: trauma, neuro",
+          "Blood inventory verified for critical transfusion"
+        ],
+        "nearestRejectedReasons": [
+          "Nearest facility has sufficient clinical headroom and is optimal"
+        ],
+        "expectedSurvivors": 12,
+        "baselineSurvivors": 9
+      },
+      "status": "suggested",
+      "pinned": false,
+      "engine": "reliefchain"
+    },
+    {
+      "id": "DEC-9A73693E",
+      "timestamp": 0.0,
+      "incidentId": "INC-006",
+      "incidentLabel": "Kurla Low-lying Shanty Inundation",
+      "ambulanceId": "AMB-01",
+      "hospitalId": "H01",
+      "selectedHospitalName": "KEM Hospital",
+      "nearestHospitalId": "H08",
+      "nearestHospitalName": "Fortis Hospital Mulund",
+      "action": "Dispatch AMB-01 to Kurla Low-lying Shanty Inundation \u2192 KEM Hospital",
+      "score": 24.9,
+      "alternatives": [
+        {
+          "hospitalId": "H01",
+          "hospitalName": "KEM Hospital",
+          "score": 24.9,
+          "distance": 2.7,
+          "etaMinutes": 10.6,
+          "accepted": true,
+          "reasons": [
+            "Expected survival benefit score: 24/100",
+            "Rapid transit ETA: 38.1m (2.7km)"
+          ]
+        },
+        {
+          "hospitalId": "H02",
+          "hospitalName": "Lokmanya Tilak Municipal (Sion)",
+          "score": 20.0,
+          "distance": 2.7,
+          "etaMinutes": 10.6,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        },
+        {
+          "hospitalId": "H03",
+          "hospitalName": "Holy Spirit Hospital",
+          "score": 20.0,
+          "distance": 7.6,
+          "etaMinutes": 30.2,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        },
+        {
+          "hospitalId": "H04",
+          "hospitalName": "Cooper Hospital",
+          "score": 20.0,
+          "distance": 4.3,
+          "etaMinutes": 13.5,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        }
+      ],
+      "constraints": [
+        "ICU Capacity < 100%",
+        "Blood Match Verified",
+        "Anti-Thrashing En-Route Lock"
+      ],
+      "explanation": {
+        "selectedReasons": [
+          "Expected survival benefit score: 24/100",
+          "Rapid transit ETA: 38.1m (2.7km)",
+          "Uncommitted ICU headroom: 15 beds",
+          "Specialty match: trauma, cardiac, pediatric",
+          "Blood inventory verified for critical transfusion"
+        ],
+        "nearestRejectedReasons": [
+          "Bypassed Fortis Hospital Mulund to prioritize verified trauma & ICU resources"
+        ],
+        "expectedSurvivors": 22,
+        "baselineSurvivors": 20
+      },
+      "status": "suggested",
+      "pinned": false,
+      "engine": "reliefchain"
+    },
+    {
+      "id": "DEC-EADBC111",
+      "timestamp": 0.0,
+      "incidentId": "INC-007",
+      "incidentLabel": "Bandra Station West Overpass Rush",
+      "ambulanceId": "AMB-32",
+      "hospitalId": "H14",
+      "selectedHospitalName": "Lilavati Hospital",
+      "nearestHospitalId": "H14",
+      "nearestHospitalName": "Lilavati Hospital",
+      "action": "Dispatch AMB-32 to Bandra Station West Overpass Rush \u2192 Lilavati Hospital",
+      "score": 70.9,
+      "alternatives": [
+        {
+          "hospitalId": "H01",
+          "hospitalName": "KEM Hospital",
+          "score": 50.4,
+          "distance": 1.7,
+          "etaMinutes": 2.8,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        },
+        {
+          "hospitalId": "H02",
+          "hospitalName": "Lokmanya Tilak Municipal (Sion)",
+          "score": 50.4,
+          "distance": 1.7,
+          "etaMinutes": 2.8,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        },
+        {
+          "hospitalId": "H03",
+          "hospitalName": "Holy Spirit Hospital",
+          "score": 30.8,
+          "distance": 6.6,
+          "etaMinutes": 22.4,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        },
+        {
+          "hospitalId": "H04",
+          "hospitalName": "Cooper Hospital",
+          "score": 51.2,
+          "distance": 0.5,
+          "etaMinutes": 2.0,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        }
+      ],
+      "constraints": [
+        "ICU Capacity < 100%",
+        "Blood Match Verified",
+        "Anti-Thrashing En-Route Lock"
+      ],
+      "explanation": {
+        "selectedReasons": [
+          "Expected survival benefit score: 70/100",
+          "Rapid transit ETA: 22.9m (0.5km)",
+          "Uncommitted ICU headroom: 13 beds",
+          "Specialty match: cardiac, neuro, trauma",
+          "Blood inventory verified for critical transfusion"
+        ],
+        "nearestRejectedReasons": [
+          "Nearest facility has sufficient clinical headroom and is optimal"
+        ],
+        "expectedSurvivors": 14,
+        "baselineSurvivors": 10
+      },
+      "status": "suggested",
+      "pinned": false,
+      "engine": "reliefchain"
+    },
+    {
+      "id": "DEC-39F45B5A",
+      "timestamp": 0.0,
+      "incidentId": "INC-008",
+      "incidentLabel": "Worli Sea Face Coastal Inundation",
+      "ambulanceId": "AMB-29",
+      "hospitalId": "H06",
+      "selectedHospitalName": "Breach Candy Hospital",
+      "nearestHospitalId": "H05",
+      "nearestHospitalName": "P.D. Hinduja Hospital",
+      "action": "Dispatch AMB-29 to Worli Sea Face Coastal Inundation \u2192 Breach Candy Hospital",
+      "score": 99.0,
+      "alternatives": [
+        {
+          "hospitalId": "H01",
+          "hospitalName": "KEM Hospital",
+          "score": 58.3,
+          "distance": 9.3,
+          "etaMinutes": 15.9,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        },
+        {
+          "hospitalId": "H02",
+          "hospitalName": "Lokmanya Tilak Municipal (Sion)",
+          "score": 58.3,
+          "distance": 9.3,
+          "etaMinutes": 15.9,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        },
+        {
+          "hospitalId": "H03",
+          "hospitalName": "Holy Spirit Hospital",
+          "score": 38.7,
+          "distance": 14.2,
+          "etaMinutes": 35.5,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        },
+        {
+          "hospitalId": "H04",
+          "hospitalName": "Cooper Hospital",
+          "score": 55.4,
+          "distance": 11.0,
+          "etaMinutes": 18.8,
+          "accepted": false,
+          "reasons": [
+            "Secondary candidate facility"
+          ]
+        }
+      ],
+      "constraints": [
+        "ICU Capacity < 100%",
+        "Blood Match Verified",
+        "Anti-Thrashing En-Route Lock"
+      ],
+      "explanation": {
+        "selectedReasons": [
+          "Expected survival benefit score: 98/100",
+          "Rapid transit ETA: 9.4m (0.5km)",
+          "Uncommitted ICU headroom: 7 beds",
+          "Specialty match: general, cardiac",
+          "Blood inventory verified for critical transfusion"
+        ],
+        "nearestRejectedReasons": [
+          "Bypassed P.D. Hinduja Hospital to prioritize verified trauma & ICU resources"
+        ],
+        "expectedSurvivors": 6,
+        "baselineSurvivors": 4
+      },
+      "status": "suggested",
+      "pinned": false,
+      "engine": "reliefchain"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "time": 1.0,
+      "title": "Initial Flooding Across Low-Lying Arteries",
+      "description": "Heavy monsoon downpour (120mm/hr) causes flash waterlogging in Hindmata, Milan Subway, and Sion Circle.",
+      "type": "flood",
+      "triggered": false
+    },
+    {
+      "id": 2,
+      "time": 2.0,
+      "title": "Building Collapse \u2013 Dadar Kabutar Khana",
+      "description": "3-storey dilapidated structure collapses under heavy rainfall. 18 critical casualties reported.",
+      "type": "collapse",
+      "triggered": false
+    },
+    {
+      "id": 3,
+      "time": 3.5,
+      "title": "Critical Casualty Cluster Reported",
+      "description": "Surge of crush and polytrauma victims identified at Hindmata requiring urgent ICU admission.",
+      "type": "casualty",
+      "triggered": false
+    },
+    {
+      "id": 4,
+      "time": 4.5,
+      "title": "Andheri Subway Flooding (4.5ft Water)",
+      "description": "Subway completely inundated. Vehicles submerged; east-west connectivity severed.",
+      "type": "flood",
+      "triggered": false
+    },
+    {
+      "id": 5,
+      "time": 5.5,
+      "title": "Hospital ICU Capacity Reduction",
+      "description": "Lokmanya Tilak (Sion) ICU reaches 100% capacity. Diverting all incoming critical ambulances.",
+      "type": "capacity",
+      "triggered": false
+    },
+    {
+      "id": 6,
+      "time": 6.5,
+      "title": "O-Negative Blood Shortage",
+      "description": "City-wide reserves of O-negative blood fall to critical levels (<4 units in central banks).",
+      "type": "blood",
+      "triggered": false
+    },
+    {
+      "id": 7,
+      "time": 7.5,
+      "title": "Ambulance Breakdown in Flooded Zone",
+      "description": "AMB-04 encounters engine hydrostatic lock near Sion Circle. Mission reassignment required.",
+      "type": "ambulance",
+      "triggered": false
+    },
+    {
+      "id": 8,
+      "time": 8.5,
+      "title": "Flood-Zone Casualty Cluster (Hindmata Deep Zone)",
+      "description": "Water rescue boat required for 20 stranded residents with hypothermia and trauma.",
+      "type": "casualty",
+      "triggered": false
+    },
+    {
+      "id": 9,
+      "time": 9.5,
+      "title": "Bridge Closure (Sion-Dadar Flyover)",
+      "description": "Structural joint displacement observed on flyover; police barricade bridge completely.",
+      "type": "road",
+      "triggered": false
+    },
+    {
+      "id": 10,
+      "time": 10.5,
+      "title": "Hospital Power Failure (Cooper Hospital)",
+      "description": "Cooper Hospital loses grid power; backup generator operating at 50% capacity.",
+      "type": "power",
+      "triggered": false
+    },
+    {
+      "id": 11,
+      "time": 11.5,
+      "title": "Paediatric Surge at Kurla Settlement",
+      "description": "15 paediatric cases needing urgent specialized pediatric trauma and respiratory support.",
+      "type": "surge",
+      "triggered": false
+    },
+    {
+      "id": 12,
+      "time": 12.5,
+      "title": "Donor Funds Arrival (\u20b950,000,000 Released)",
+      "description": "Emergency funds released to logistics pool for fuel, oxygen, and emergency medical replenishment.",
+      "type": "funds",
+      "triggered": false
+    },
+    {
+      "id": 13,
+      "time": 13.5,
+      "title": "Supply Vehicle Stuck in Mud / Water",
+      "description": "Truck carrying 40 oxygen cylinders trapped in Kurla junction; requires escort or boat transfer.",
+      "type": "supply",
+      "triggered": false
+    },
+    {
+      "id": 14,
+      "time": 14.2,
+      "title": "Duplicate Beneficiary Claim Detected",
+      "description": "Automated ledger integrity scan detects identical token claim at Dadar and Hindmata relief camps.",
+      "type": "anomaly",
+      "triggered": false
+    },
+    {
+      "id": 15,
+      "time": 15.0,
+      "title": "Road Reopening (Bandra-Sion Cleared)",
+      "description": "Pumping stations clear Bandra-Sion corridor. Normal high-speed transit restored.",
+      "type": "road",
+      "triggered": false
+    }
+  ],
+  "ledger": [
+    {
+      "index": 0,
+      "timestamp": 0.0,
+      "previousHash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "hash": "7c5307bcffed1ee8f8faaa1ca37baed812b19aa7b3db5b8a51bef907cf2bc277",
+      "merkleRoot": "033497960c6c6eb1d340f81d4e25438bf3fb55c9daab75ea9613946654e184d5",
+      "entries": [
+        {
+          "type": "allocation",
+          "description": "ReliefChain initialized \u2014 Mumbai Monsoon Surge Mission Control",
+          "entityId": "SYSTEM"
+        }
+      ],
+      "verified": true,
+      "tampered": false
+    },
+    {
+      "index": 1,
+      "timestamp": 0.2,
+      "previousHash": "7c5307bcffed1ee8f8faaa1ca37baed812b19aa7b3db5b8a51bef907cf2bc277",
+      "hash": "1d93393ac022921f28bda14adf04225e74c9c3ed44ba043b4a4cc741e68e97e6",
+      "merkleRoot": "fea546d09a01b31cd470a528a5a0f741619f269b7d6305d85bb9fd7f636df304",
+      "entries": [
+        {
+          "type": "fund_pledge",
+          "description": "Maharashtra SDMA emergency pool \u20b910 Cr allocated",
+          "amount": 100000000.0,
+          "entityId": "F1"
+        },
+        {
+          "type": "fund_release",
+          "description": "\u20b910 Cr disbursed to Emergency Relief Pool",
+          "amount": 100000000.0,
+          "entityId": "F1"
+        }
+      ],
+      "verified": true,
+      "tampered": false
+    },
+    {
+      "index": 2,
+      "timestamp": 0.5,
+      "previousHash": "1d93393ac022921f28bda14adf04225e74c9c3ed44ba043b4a4cc741e68e97e6",
+      "hash": "f8cb7d248e313da90266e06cbcbe5fe12e3001adbdd0cd376aec5d354f9e2657",
+      "merkleRoot": "58600476f541f90366c86222f45ad4e95f59782058ce85f531354b36d1f7cfc3",
+      "entries": [
+        {
+          "type": "supply_transfer",
+          "description": "1,200 IV Fluids released from KEM Central Depot",
+          "entityId": "SUP-001",
+          "metadata": {
+            "qty": 1200
+          }
+        },
+        {
+          "type": "dispatch",
+          "description": "AMB-01 dispatched on perimeter reconnaissance",
+          "entityId": "AMB-01"
+        }
+      ],
+      "verified": true,
+      "tampered": false
+    }
+  ],
+  "funds": [
+    {
+      "id": "F1",
+      "donor": "Maharashtra State Disaster Management Authority",
+      "amount": 100000000.0,
+      "purpose": "Emergency Operations Pool",
+      "stage": "released",
+      "recipient": "Emergency Pool",
+      "timestamp": 0.5
+    },
+    {
+      "id": "F2",
+      "donor": "Mumbai Business Relief Council",
+      "amount": 50000000.0,
+      "purpose": "Trauma Medicine & Oxygen Logistics",
+      "stage": "allocated",
+      "recipient": "Logistics Command",
+      "timestamp": 1.0
+    },
+    {
+      "id": "F3",
+      "donor": "Tata Trust Humanitarian Relief",
+      "amount": 25000000.0,
+      "purpose": "Flood Zone Rescue Boat Deployment",
+      "stage": "pledged",
+      "recipient": "Water Rescue Fleet",
+      "timestamp": 2.2
+    }
+  ],
+  "anomalies": [
+    {
+      "id": "ANOM-001",
+      "type": "duplicate_beneficiary",
+      "severity": "high",
+      "title": "Duplicate Aadhaar Token Claim",
+      "description": "Simulated Aadhaar hash 8472-XXXX-9102 filed emergency relief aid at both Dadar Camp #2 and Hindmata Shelter within 6 minutes.",
+      "evidence": [
+        "Biometric match: 99.4% confidence",
+        "Timestamp Delta: 6.2 minutes (Physically impossible travel time under current flood gridlock)",
+        "IP/Terminal Geolocation: Discrepancy of 4.2km"
+      ],
+      "linkedRecords": [
+        "BENEF-DADAR-041",
+        "BENEF-HINDMATA-108"
+      ],
+      "status": "new",
+      "notes": "Automated ledger token flagged for supervisor verification.",
+      "detectedAt": 1.4
+    },
+    {
+      "id": "ANOM-FUND-F1",
+      "type": "unusual_pricing",
+      "severity": "medium",
+      "title": "High-Volume Fund Disbursement: F1",
+      "description": "Fund transfer of \u20b9100,000,000 to Emergency Pool exceeds single-event benchmark ceiling by 160%.",
+      "evidence": [
+        "Amount: \u20b9100,000,000",
+        "Threshold: \u20b950,000,000.00",
+        "Approval Chain: Requires multi-sig Comptroller signoff"
+      ],
+      "linkedRecords": [
+        "F1"
+      ],
+      "status": "new",
+      "notes": "Escrow held pending secondary auditor authorization.",
+      "detectedAt": 0.5
+    }
+  ],
+  "stats": {
+    "estimatedSurvivors": 132,
+    "baselineSurvivors": 108,
+    "avgRedTreatmentTime": 11,
+    "worstTreatmentTime": 21,
+    "icuOverloads": 0,
+    "unservedCritical": 47,
+    "ambulanceUtilization": 20,
+    "equityScore": 96,
+    "pendingDecisions": 8,
+    "activeAmbulances": 8,
+    "activeIncidents": 8,
+    "hospitalOverloads": 0,
+    "activeSupplyRequests": 4,
+    "bloodAvailability": 1595,
+    "icuAvailability": 146
+  },
+  "alert": null,
+  "autopilotActive": false,
+  "autopilotStep": 0
+}

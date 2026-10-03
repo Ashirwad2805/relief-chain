@@ -1,0 +1,26 @@
+services:
+  reliefchain:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        VITE_API_URL: ${VITE_API_URL:-https://relief-chain-kain.onrender.com}
+    ports:
+      - "8000:8000"
+    environment:
+      PORT: "8000"
+      FRONTEND_URL: ${FRONTEND_URL:-http://localhost:5173,http://localhost:8000}
+      JWT_SECRET: ${JWT_SECRET:-reliefchain-disaster-resilience-secret-seed-42}
+      MAPTILER_API_KEY: ${MAPTILER_API_KEY:-}
+      MAPBOX_TOKEN: ${MAPBOX_TOKEN:-}
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY:-}
+      GOOGLE_MAPS_API_KEY: ${GOOGLE_MAPS_API_KEY:-}
+      PAYMENT_TEST_KEY: ${PAYMENT_TEST_KEY:-}
+      BLOCKCHAIN_RPC_URL: ${BLOCKCHAIN_RPC_URL:-}
+      BLOCKCHAIN_PRIVATE_KEY: ${BLOCKCHAIN_PRIVATE_KEY:-}
+    volumes:
+      - reliefchain-db:/app/db
+
+volumes:
+  reliefchain-db:
