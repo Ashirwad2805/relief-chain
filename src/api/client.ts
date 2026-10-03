@@ -7,7 +7,8 @@
  */
 
 export const BASE_URL = (
-  (import.meta.env.VITE_API_URL as string) || 'http://localhost:8000'
+  (import.meta.env.VITE_API_URL as string) ||
+  (import.meta.env.DEV ? 'http://localhost:8000' : window.location.origin)
 ).replace(/\/+$/, '');
 const WS_URL = BASE_URL.replace(/^http/, 'ws');
 

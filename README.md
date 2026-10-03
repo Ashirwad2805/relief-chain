@@ -26,7 +26,16 @@ npm run dev
 ```
 
 Vite runs at `http://localhost:5173`. The frontend API client uses
-`VITE_API_URL` when set and otherwise calls `http://localhost:8000`.
+`VITE_API_URL` when set and otherwise calls `http://localhost:8000` during
+development. In production it uses the current site origin, so API calls use
+the `/api` Vercel rewrite rather than a separately configured backend URL.
+
+## Deploy on Vercel
+
+The root `vercel.json` configures the Vite app and FastAPI backend as separate
+services. `/api/*` and `/ws` are routed to the backend; all other paths go to
+the app. The browser calls the backend through those public same-origin paths,
+so no service binding is needed.
 
 The landing page's Get Started and Start Donating buttons open the existing
 Emergency Funds tracker at `#/funds`. The upstream project does not currently
