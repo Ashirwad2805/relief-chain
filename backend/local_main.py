@@ -15,7 +15,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
 from sim_world import SimWorld
-from ai_client import ask_ai
+from backend.app.ai_client import ask_ai
 
 # ── Global Simulation State ─────────────────────────────────────────────────
 

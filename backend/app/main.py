@@ -6,7 +6,7 @@ from pydantic import BaseModel
 from app.api.routes import router as api_router
 from app.api.websocket import ws_router, simulation_background_loop
 from app.config import settings
-from ai_client import ask_ai
+from app.ai_client import ask_ai
 
 
 class ChatRequest(BaseModel):
