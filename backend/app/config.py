@@ -27,10 +27,15 @@ class Settings:
     @classmethod
     def frontend_origins(cls) -> list[str]:
         origins = [o.strip() for o in cls.FRONTEND_URL.split(",") if o.strip()]
-        for extra in ("http://localhost:5173", "http://localhost:8000"):
+        for extra in (
+            "http://localhost:5173",
+            "http://localhost:8000",
+            "https://relief-chain-delta.vercel.app",
+        ):
             if extra not in origins:
                 origins.append(extra)
         return origins
+
 
     JWT_SECRET: str = os.getenv("JWT_SECRET", "reliefchain-disaster-resilience-secret-seed-42")
     SIMULATION_SEED: int = int(os.getenv("SIMULATION_SEED", "42"))
